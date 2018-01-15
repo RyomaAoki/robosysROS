@@ -3,5 +3,4 @@
 # 内容
 課題1で作成した7セグLEDを光らせるものをROSを使って光らせる
 # デモ動画
-# 使用方法
-        
+https://youtu.be/HEd2FFKmutM
